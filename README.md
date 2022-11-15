@@ -21,6 +21,7 @@ In this Session, I will demonstrate __How to Create Service Connection Using Dev
 | Set __PAT (Personal Access Token) as an environment variable__ for DevOps Login. |
 | Create __Azure DevOps Service Connection__. |
 | __Grant Access to all Pipelines__ to the Newly Created Azure DevOps Service Connection. |
+| __Verify__ Service Connection. |
 
 
 | __REQUIREMENTS:-__ |
