@@ -4,6 +4,19 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 In this Session, I will demonstrate __How to Create Service Connection Using DevOps CLI.__
 
+I had the Privilege to talk on this topic in __ONE__ Azure Communities:-
+
+| __NAME OF THE AZURE COMMUNITY__ | __TYPE OF SPEAKER SESSION__ |
+| --------- | --------- |
+| __Festive Tech Calendar 2022__ | __Virtual__ |
+
+
+| __LIVE RECORDED SESSION:-__ |
+| --------- |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __FESTIVE TECH CALENDAR 2022__ Forum/Platform |
+| Duration of My Demo = __1 Hour 05 Mins 08 Secs__ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pcIVKO2dlEI/0.jpg)](https://www.youtube.com/watch?v=pcIVKO2dlEI&t=80s) |
+
 
 | __USE CASES:-__ |
 | --------- |
